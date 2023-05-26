@@ -1,2 +1,2 @@
-# SP1-Valgrind-Script
-Repository für das Valgrind-Mem-Check Skript für SP1
+# Siehe:
+https://rovetowns-team.gitbook.io/sp1-setup-guide/
